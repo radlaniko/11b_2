@@ -64,7 +64,7 @@ Függvénnyel
 b) A címletek tetszõlegesen módosíthatók legyenek a kódban.
 
 10. Számítsa ki két ugyanabban az évben lévõ nap között eltelt napok számát. 
-Az év nem szökõév.  [hh.nn]
+Az év nem szökõév.  [hh.nn] Az eredményt hónap, napban írja ki.
 
 11. Írjon egy Decimális bináris konvertálót. A bekért decimális számnak visszaadja a 
 bináris alakját.
